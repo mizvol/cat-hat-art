@@ -1,1 +1,1 @@
-# cat-hat-art
+# Cat Hat
